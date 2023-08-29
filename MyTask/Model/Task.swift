@@ -7,7 +7,7 @@
 
 import Foundation
 struct Task{
-    let id:Int
+    var id:Int
     var name:String
     var description:String
     var isCompleted:Bool
